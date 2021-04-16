@@ -3,8 +3,8 @@ import sys
 import base64
 
 print('\n\n\n')
-print("useage base64_wordlist_creator.py usernames.txt passwords.txt output.txt")
-print('\n\n\n')
+print("base64_wordlist_creator.py usernames.txt passwords.txt output.txt")
+print('n\n\n')
 
 def create(USER,PASS,OUT):
     U=open(USER,"r");
